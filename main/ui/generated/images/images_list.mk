@@ -1,0 +1,1 @@
+GEN_CSRCS += _02_alpha_320x240.c _wifiicon_alpha_20x20.c
